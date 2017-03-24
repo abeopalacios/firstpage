@@ -1,2 +1,0 @@
-# firstpage
-práctica
